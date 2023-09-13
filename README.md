@@ -1,4 +1,7 @@
 # Cafe_Lattes_and_Pixie_Dust
+
+View the presentation recording: https://www.youtube.com/watch?v=lHNeYhZh-FQ
+
 An introspective look at the personal and enterprise-level risks of current WIFI hacking tools, techniques, and procedures through demonstration and discussion of modern WIFI hacking with emphasis on the awareness to inform risk management and remediation.
 
 Concepts Discussed & Demonstrated:
